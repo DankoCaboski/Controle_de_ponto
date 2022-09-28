@@ -1,2 +1,2 @@
-# __Controle_de_ponto
-O seguinte repositorio contem o projeto e as tecnologias otulizadas no desenvolvimento de um sistema de controle de horas trabalhadas para proficionais freelancer
+# Controle de ponto e horas
+Desenvolvido afim de auxiliar proficionais freelancers e em regime de pagamento por produdutividade, esse projeto trás um sistema de contagem de horas trabalhadas, recopmendação e custo/hora
